@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 9b478d87-1396-5227-2cfb-83235a2e9dde
 ---
@@ -26,10 +29,10 @@ OLD EXAM SOLUTIONS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="6" >}}
 1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="6" >}}
 ([PDF]({{< baseurl >}}/resources/quiz1sol_f08))
 {{< tdclose >}}
 {{< tdopen >}}
@@ -86,10 +89,10 @@ OLD EXAM SOLUTIONS
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="6" >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="6" >}}
 ([PDF]({{< baseurl >}}/resources/fall08qz2sol12))
 {{< tdclose >}}
 {{< tdopen >}}
@@ -152,10 +155,10 @@ Supplementary solutions ([PDF]({{< baseurl >}}/resources/quiz2supp))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="6" >}}
 3
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="6" >}}
 ([PDF]({{< baseurl >}}/resources/quiz3))
 {{< tdclose >}}
 {{< tdopen >}}

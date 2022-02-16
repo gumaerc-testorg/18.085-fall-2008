@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8321cf2d-ec08-88f8-5224-fbb9efd6ae4d
 ---
@@ -251,7 +253,7 @@ Recitation 6
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Trusses and ATCA
+Trusses and A{{< sup "T" >}}CA
 {{< tdclose >}}
 
 {{< trclose >}}

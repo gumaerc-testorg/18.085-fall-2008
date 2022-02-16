@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Excerpt on Fourier series and integrals from the course textbook.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-085-computational-science-and-engineering-i-fall-2008/f1da5a16ff5dfd980ef4dfeb46bd76b7_cse41.pdf
+file: /media/courses/18-085-computational-science-and-engineering-i-fall-2008/f1da5a16ff5dfd980ef4dfeb46bd76b7_cse41.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: 'Chapter 4: Fourier Series and Integrals; Section 4.1 Fourier Series for Periodic
   Functions'

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-085-computational-science-and-engineering-i-fall-2008/816c586f09f257c7bc1247b804089b1d_CgfkEUOFAj0.vtt
+file: /media/courses/18-085-computational-science-and-engineering-i-fall-2008/816c586f09f257c7bc1247b804089b1d_CgfkEUOFAj0.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 816c586f-09f2-57c7-bc12-47b804089b1d

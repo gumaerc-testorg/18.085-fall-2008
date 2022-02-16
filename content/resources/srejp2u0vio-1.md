@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-085-computational-science-and-engineering-i-fall-2008/a8f2ce88b08f25c77f203c1178ae2c67_SreJp2U0Vio.pdf
+file: /media/courses/18-085-computational-science-and-engineering-i-fall-2008/a8f2ce88b08f25c77f203c1178ae2c67_SreJp2U0Vio.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: a8f2ce88-b08f-25c7-7f20-3c1178ae2c67
