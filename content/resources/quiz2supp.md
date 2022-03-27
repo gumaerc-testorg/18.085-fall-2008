@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 9b478d87-1396-5227-2cfb-83235a2e9dde
 resourcetype: Document
 title: Quiz 2, Supplementary Solutions
 uid: 0767dfd0-f6d4-c9c8-01ab-0afd85e96ca2

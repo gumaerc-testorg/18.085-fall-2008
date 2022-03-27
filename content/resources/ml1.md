@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: df610098-8ebd-ba68-b43f-7d3a6f71d7c5
 resourcetype: Document
 title: MATLAB Homework 1
 uid: 826c525c-8137-544e-010e-a1186c994757

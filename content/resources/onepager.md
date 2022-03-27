@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: df610098-8ebd-ba68-b43f-7d3a6f71d7c5
 resourcetype: Document
 title: Gradient and Divergence / Parallel Table
 uid: aa2d3836-50c8-5cf7-ebef-614dead3f3a6

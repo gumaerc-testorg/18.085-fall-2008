@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 9b478d87-1396-5227-2cfb-83235a2e9dde
 resourcetype: Document
 title: Quiz 2 Solutions, Fall 2002
 uid: ce052b7a-2282-2cf1-4045-46a3013f8bbd

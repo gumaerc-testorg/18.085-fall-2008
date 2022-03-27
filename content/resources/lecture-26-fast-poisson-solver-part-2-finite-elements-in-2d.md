@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 26: Fast Poisson Solver (part 2); Finite Elements in 2D'
 uid: 87cd763b-b7f9-2708-e162-76a72c6c7a13
 video_files:

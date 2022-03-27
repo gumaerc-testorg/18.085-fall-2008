@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 8321cf2d-ec08-88f8-5224-fbb9efd6ae4d
 resourcetype: Document
 title: 'Course Outline: 8.085 Computational Science and Engineering'
 uid: f9f6cfb2-3907-950c-377c-2b7320aecf77

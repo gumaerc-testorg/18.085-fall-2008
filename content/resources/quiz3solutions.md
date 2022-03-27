@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 9b478d87-1396-5227-2cfb-83235a2e9dde
 resourcetype: Document
 title: Quiz 3 Solutions, Fall 2007
 uid: a6287d53-6793-5b6a-664c-009466c9de3f

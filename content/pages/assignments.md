@@ -78,7 +78,7 @@ Assignment 2 solutions ([PDF]({{< baseurl >}}/resources/pset2))
 
 ### MATLAB code
 
-normalmodescode.m ([M](/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/assignments/normalmodescode.m))
+normalmodescode.m ([M]({{< baseurl >}}/resources/normalmodescode))
 
 
 {{< tdclose >}}
@@ -130,9 +130,9 @@ Section 2.4: 19 and 21 (use the note on that page to construct matrices)
 
 ### MATLAB code
 
-gramschmidt.m ([M](/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/assignments/gramschmidt.m))  
-modifiedgramschmidt.m ([M](/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/assignments/modifiedgramschmidt.m))  
-householder.m ([M](/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/assignments/householder.m))
+gramschmidt.m ([M]({{< baseurl >}}/resources/gramschmidt))  
+modifiedgramschmidt.m ([M]({{< baseurl >}}/resources/modifiedgramschmidt))  
+householder.m ([M]({{< baseurl >}}/resources/householder))
 
 ### Solutions
 
@@ -208,7 +208,7 @@ Section 3.6: 5, 6, 9, and 16
 
 Assignment 7 solutions ([PDF]({{< baseurl >}}/resources/pset7))
 
-Solution to problem 3.6.9: 3.6.9solution.m ([M](/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/assignments/369solution.m))
+Solution to problem 3.6.9: 3.6.9solution.m ([M]({{< baseurl >}}/resources/369solution))
 
 
 {{< tdclose >}}

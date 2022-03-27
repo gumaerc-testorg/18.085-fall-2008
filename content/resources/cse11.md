@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: df610098-8ebd-ba68-b43f-7d3a6f71d7c5
 resourcetype: Document
 title: 'Chapter 1: Applied Linear Algebra; Section 1.1 Four Special Matrices'
 uid: 2a7a1ba2-82fc-4719-9e30-81b82d7fe8d5

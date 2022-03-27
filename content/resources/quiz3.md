@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 9b478d87-1396-5227-2cfb-83235a2e9dde
 resourcetype: Document
 title: Quiz 3, Fall 2008
 uid: 5c13fd39-97ef-892f-9356-05d9c679a90d
