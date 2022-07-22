@@ -5,6 +5,7 @@ file: /courses/18-085-computational-science-and-engineering-i-fall-2008/73d357e3
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Supplementary MATLAB code for a homework assignment.
-

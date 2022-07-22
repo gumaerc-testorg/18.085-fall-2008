@@ -4,6 +4,7 @@ description: Homework assignment on MATLAB.
 file: /courses/18-085-computational-science-and-engineering-i-fall-2008/826c525c8137544e010ea1186c994757_ml1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Homework assignment on MATLAB.
-

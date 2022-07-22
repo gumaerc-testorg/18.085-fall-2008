@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-085-computational-science-and-engineering-i-fall-2008/ebf74919eb4c5193953ad9e8805823a5_ZOBgPxmXeVM.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

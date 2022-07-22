@@ -4,6 +4,7 @@ description: Supporting MATLAB file on elimination.
 file: /courses/18-085-computational-science-and-engineering-i-fall-2008/bd1be269225e36e296b75929ded5aa5b_realmmd.m
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting MATLAB file on elimination.
-

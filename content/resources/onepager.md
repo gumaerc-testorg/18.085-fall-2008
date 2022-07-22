@@ -4,6 +4,7 @@ description: Class handout on gradient and divergence, and parallel tables.
 file: /courses/18-085-computational-science-and-engineering-i-fall-2008/aa2d383650c85cf7ebef614dead3f3a6_onepager.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Class handout on gradient and divergence, and parallel tables.
-

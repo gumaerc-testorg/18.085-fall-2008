@@ -4,6 +4,7 @@ description: Excerpt on Fourier series and integrals from the course textbook.
 file: /courses/18-085-computational-science-and-engineering-i-fall-2008/f1da5a16ff5dfd980ef4dfeb46bd76b7_cse41.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Excerpt on Fourier series and integrals from the course textbook.
-

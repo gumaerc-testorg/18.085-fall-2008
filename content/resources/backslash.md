@@ -4,6 +4,7 @@ description: Class handout on using the MATLAB backslash command to solve Ax = b
 file: /courses/18-085-computational-science-and-engineering-i-fall-2008/32852720d766a2b07b4ef07b693be03f_backslash.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Class handout on using the MATLAB backslash command to solve Ax = b.
-

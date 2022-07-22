@@ -5,6 +5,7 @@ file: /courses/18-085-computational-science-and-engineering-i-fall-2008/13dab2b9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Solutions to a problem set on mathematical methods for engineers.
-

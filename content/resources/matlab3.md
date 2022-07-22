@@ -4,6 +4,7 @@ description: Homework assignment on MATLAB and bridge trusses.
 file: /courses/18-085-computational-science-and-engineering-i-fall-2008/4a4dcfb71b991ee04f62a7fa8d4b7286_matlab3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Homework assignment on MATLAB and bridge trusses.
-
