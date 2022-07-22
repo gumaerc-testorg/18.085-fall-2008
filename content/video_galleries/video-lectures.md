@@ -1,8 +1,17 @@
 ---
 content_type: video_gallery
+description: This section contains videos of Professor Strang's lectures, recorded
+  at MIT's Lincoln Laboratory in the Spring of 2001.
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Video Lectures
 uid: 4e3ac3b3-1de7-414e-0518-1196c7255bbd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - b1fc33dc-0118-c950-bee3-74e6037a381e
