@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to a quiz on computational science and engineering.
 file: /courses/18-085-computational-science-and-engineering-i-fall-2008/802265754b89c5c3d8cd6a1c20571fda_quiz1_sols_18085.pdf
+file_size: 119255
 file_type: application/pdf
 learning_resource_types:
 - Exams

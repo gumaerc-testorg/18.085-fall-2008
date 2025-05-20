@@ -2,6 +2,7 @@
 content_type: resource
 description: A short tutorial on MATLAB.
 file: /courses/18-085-computational-science-and-engineering-i-fall-2008/7422bd08e3c68d97d30d3a274ea49165_matlab.pdf
+file_size: 261766
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
