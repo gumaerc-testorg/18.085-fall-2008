@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment on MATLAB and differential equations.
 file: /courses/18-085-computational-science-and-engineering-i-fall-2008/fd13e068ca29eb488188c4182236d4f6_matlab4.pdf
+file_size: 36914
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

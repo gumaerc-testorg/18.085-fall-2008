@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-085-computational-science-and-engineering-i-fall-2008/f33a5076b2fd9332f60a0db6a50c5d54_0egP7_kq23E.pdf
+file_size: 58528
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
