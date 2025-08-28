@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplementary solutions to a quiz on computational science and engineering.
-file: /courses/18-085-computational-science-and-engineering-i-fall-2008/0767dfd0f6d4c9c801ab0afd85e96ca2_quiz2supp.pdf
+file: /ol-ocw-studio-app/courses/18-085-computational-science-and-engineering-i-fall-2008/0767dfd0f6d4c9c801ab0afd85e96ca2_quiz2supp.pdf
 file_size: 44226
 file_type: application/pdf
 learning_resource_types:

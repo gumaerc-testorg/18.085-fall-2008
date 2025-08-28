@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on MATLAB.
-file: /courses/18-085-computational-science-and-engineering-i-fall-2008/826c525c8137544e010ea1186c994757_ml1.pdf
+file: /ol-ocw-studio-app/courses/18-085-computational-science-and-engineering-i-fall-2008/826c525c8137544e010ea1186c994757_ml1.pdf
 file_size: 57296
 file_type: application/pdf
 learning_resource_types: []

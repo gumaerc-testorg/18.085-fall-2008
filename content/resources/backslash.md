@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Class handout on using the MATLAB backslash command to solve Ax = b.
-file: /courses/18-085-computational-science-and-engineering-i-fall-2008/32852720d766a2b07b4ef07b693be03f_backslash.pdf
+file: /ol-ocw-studio-app/courses/18-085-computational-science-and-engineering-i-fall-2008/32852720d766a2b07b4ef07b693be03f_backslash.pdf
 file_size: 43435
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on MATLAB and bridge trusses.
-file: /courses/18-085-computational-science-and-engineering-i-fall-2008/4a4dcfb71b991ee04f62a7fa8d4b7286_matlab3.pdf
+file: /ol-ocw-studio-app/courses/18-085-computational-science-and-engineering-i-fall-2008/4a4dcfb71b991ee04f62a7fa8d4b7286_matlab3.pdf
 file_size: 118661
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on mathematical methods for engineers.
-file: /courses/18-085-computational-science-and-engineering-i-fall-2008/fe8e928c8e3d7a189abfe241cbdf6294_pset3.pdf
+file: /ol-ocw-studio-app/courses/18-085-computational-science-and-engineering-i-fall-2008/fe8e928c8e3d7a189abfe241cbdf6294_pset3.pdf
 file_size: 384938
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on MATLAB and Laplace's equation.
-file: /courses/18-085-computational-science-and-engineering-i-fall-2008/557aa7b5ecb944f59595436dc88e9da3_matlab5.pdf
+file: /ol-ocw-studio-app/courses/18-085-computational-science-and-engineering-i-fall-2008/557aa7b5ecb944f59595436dc88e9da3_matlab5.pdf
 file_size: 182936
 file_type: application/pdf
 learning_resource_types: []
