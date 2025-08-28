@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz on computational science and engineering.
-file: /courses/18-085-computational-science-and-engineering-i-fall-2008/f144026fd2cd79d46faa7009b7e6b007_quiz3f07.pdf
+file: /ol-ocw-studio-app/courses/18-085-computational-science-and-engineering-i-fall-2008/f144026fd2cd79d46faa7009b7e6b007_quiz3f07.pdf
 file_size: 118288
 file_type: application/pdf
 learning_resource_types:

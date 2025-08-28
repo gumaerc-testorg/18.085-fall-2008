@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-085-computational-science-and-engineering-i-fall-2008/c849d89fd07658049931c10162a3cf8f_pN7zitwRq58.vtt
+file: /ol-ocw-studio-app/courses/18-085-computational-science-and-engineering-i-fall-2008/c849d89fd07658049931c10162a3cf8f_pN7zitwRq58.vtt
 file_size: 56643
 file_type: application/x-subrip
 learning_resource_types: []

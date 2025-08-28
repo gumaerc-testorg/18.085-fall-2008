@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplementary MATLAB code for a homework assignment.
-file: /courses/18-085-computational-science-and-engineering-i-fall-2008/4146ab6efc53a230678c21f5dc5295e2_369solution.m
+file: /ol-ocw-studio-app/courses/18-085-computational-science-and-engineering-i-fall-2008/4146ab6efc53a230678c21f5dc5295e2_369solution.m
 file_size: 574
 file_type: text/plain
 learning_resource_types:

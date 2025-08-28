@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Excerpt on Fourier series and integrals from the course textbook.
-file: /courses/18-085-computational-science-and-engineering-i-fall-2008/f1da5a16ff5dfd980ef4dfeb46bd76b7_cse41.pdf
+file: /ol-ocw-studio-app/courses/18-085-computational-science-and-engineering-i-fall-2008/f1da5a16ff5dfd980ef4dfeb46bd76b7_cse41.pdf
 file_size: 573676
 file_type: application/pdf
 learning_resource_types: []
