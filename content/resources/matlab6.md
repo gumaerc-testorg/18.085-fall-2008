@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on MATLAB, Fourier Series, and Gibbs phenomenon.
-file: /courses/18-085-computational-science-and-engineering-i-fall-2008/bd169b1e30ab302f8079647ce192802c_matlab6.pdf
+file: /ol-ocw-studio-app/courses/18-085-computational-science-and-engineering-i-fall-2008/bd169b1e30ab302f8079647ce192802c_matlab6.pdf
 file_size: 136764
 file_type: application/pdf
 learning_resource_types: []

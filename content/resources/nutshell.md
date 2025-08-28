@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Excerpt on linear algebra from the course textbook.
-file: /courses/18-085-computational-science-and-engineering-i-fall-2008/7549c43ec4a5c4544fb68cb626396fbd_nutshell.pdf
+file: /ol-ocw-studio-app/courses/18-085-computational-science-and-engineering-i-fall-2008/7549c43ec4a5c4544fb68cb626396fbd_nutshell.pdf
 file_size: 236781
 file_type: application/pdf
 learning_resource_types: []
