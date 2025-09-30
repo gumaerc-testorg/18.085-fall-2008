@@ -15,7 +15,7 @@ video_metadata:
 Textbook Chapters
 -----------------
 
-Below are two excerpts from the textbook for this course ( Strang, Gilbert. _Computational Science and Engineering_. Wellesley, MA: [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2007. ISBN: 9780961408817.).
+Below are two excerpts from the textbook for this course ( Strang, Gilbert. _Computational Science and Engineering_. Wellesley, MA: {{% resource_link "787351ff-7000-4567-8527-5ea12a54d9f6" "Wellesley-Cambridge Press" %}}, 2007. ISBN: 9780961408817.).
 
 Chapter 1: Applied Linear Algebra; Section 1.1 Four Special Matrices ({{% resource_link 2a7a1ba2-82fc-4719-9e30-81b82d7fe8d5 "PDF" %}})
 
@@ -27,9 +27,9 @@ MATLAB Information
 ------------------
 
 *   MATLAB cheat sheet ({{% resource_link d0a8d324-b565-f8ad-9366-1a7961d9e3f0 "PDF" %}})
-*   Short MATLAB tutorial ({{% resource_link 7422bd08-e3c6-8d97-d30d-3a274ea49165 "PDF" %}}) and [Cool MATLAB demos](http://www.mathworks.com/products/demos/) by MathWorks
-*   [MATLAB recitation demos from 1997](http://web.mit.edu/18.06/www/MATLAB/Recitation.html)
-*   [MATLAB teaching codes](http://web.mit.edu/18.06/www/Course-Info/Tcodes.html)
+*   Short MATLAB tutorial ({{% resource_link 7422bd08-e3c6-8d97-d30d-3a274ea49165 "PDF" %}}) and {{% resource_link "71a5fca1-33c8-424a-8664-80befc9d0fd0" "Cool MATLAB demos" %}} by MathWorks
+*   {{% resource_link "84e5dc03-512d-4a7d-8a8a-11fc212e6957" "MATLAB recitation demos from 1997" %}}
+*   {{% resource_link "51895a47-85eb-4d89-957e-f610cf5e59be" "MATLAB teaching codes" %}}
 
 Spring 1999 MATLAB Homework
 ---------------------------
