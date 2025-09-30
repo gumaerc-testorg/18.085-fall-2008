@@ -14,7 +14,7 @@ video_metadata:
 ---
 This section presents problem sets with solutions and MATLAB homework assignments. The problem sets are assigned from the text:
 
-Strang, Gilbert. _Computational Science and Engineering_. Wellesley, MA: [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2007. ISBN: 9780961408817. ([Table of Contents](http://www-math.mit.edu/cse/#toc))
+Strang, Gilbert. _Computational Science and Engineering_. Wellesley, MA: {{% resource_link "787351ff-7000-4567-8527-5ea12a54d9f6" "Wellesley-Cambridge Press" %}}, 2007. ISBN: 9780961408817. ({{% resource_link "e603fb83-a0a3-455f-91d2-00634c27eb5f" "Table of Contents" %}})
 
 Working together is allowed on problem sets. However, you must write up your results individually and indicate the names of your collaborators. Use of existing solutions is not allowed.
 
